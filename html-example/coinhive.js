@@ -1,4 +1,3 @@
-<script type="text/javascript">
 /*
 Copyright @ Credit https://github.com/C0nw0nk/CoinHive
 
@@ -501,4 +500,3 @@ getScriptElement.parentNode.insertBefore(createScriptElement, getScriptElement);
 
 }, false);
 })();
-</script>
